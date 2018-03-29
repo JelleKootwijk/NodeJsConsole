@@ -1,0 +1,12 @@
+{
+  "name": "my-first-node-js-console-app",
+  "version": "0.0.0",
+  "description": "MyFirstNodeJsConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "Ya boi SpoOkyJelle"
+  },
+  "devDependencies": {
+    "@types/node": "^6.0.87"
+  }
+}
